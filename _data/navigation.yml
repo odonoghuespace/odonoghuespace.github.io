@@ -6,13 +6,13 @@
 
 main:
   - title: "Publications"
-    url: /publications/
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /publications/  
         
   - title: "Blog Posts"
     url: /year-archive/
+
+  - title: "Animations"
+    url: https://www.youtube.com/@Interplanetary/videos
     
   - title: "CV"
     url: /cv/

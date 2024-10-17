@@ -1,3 +1,12 @@
+---
+layout: archive
+permalink: /CV/
+title: "Blog posts"
+author_profile: true
+redirect_from:
+  - /wordpress/blog-posts/
+---
+
 # Curriculum Vitae
 
 ## Dr. James O'Donoghue

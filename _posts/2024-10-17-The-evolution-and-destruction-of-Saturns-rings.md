@@ -13,8 +13,9 @@ Saturn, thanks to its system of rings, is the most recognisable planet in our So
 
 <p align="center">
   <img src="images/Blog1_Figure1.jpg" alt="Saturn's Rings" width="400">
+  <figcaption>Figure 1: Saturn and its ring system. A portrait looking down on Saturn and its rings was created from images obtained by NASA's Cassini spacecraft on Oct. 10, 2013.</figcaption>
 </p>
-Figure 1: Saturn and its ring system. A portrait looking down on Saturn and its rings was created from images obtained by NASA's Cassini spacecraft on Oct. 10, 2013. Long Description
+
 
 
 That is just the future of the rings, not the total lifetime; for that, you need to know the age of the rings. If you were to do a Google search for the age of Saturn’s rings today, you’ll find an answer of about 400 million years. The answer returned just over a year ago was 100 million years, and if you look at the results over the past decade, you will see answers ranging from 10 million to 4.4 billion years. That’s about as good as informing us that the rings formed between the creation of the Solar System and up until yesterday. This is no mistake by media outlets; it is because ring-researchers are broadly split into two camps, either the rings are ancient and formed about 4 billion of years ago or they formed on the order of 100 million years ago when the dinosaurs roamed the Earth.  

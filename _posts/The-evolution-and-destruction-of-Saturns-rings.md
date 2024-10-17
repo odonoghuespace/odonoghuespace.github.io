@@ -1,7 +1,7 @@
 ---
 title: 'Blog Post number 1'
 date: 2024-01-19
-permalink: /posts/2024/01/the-evolution-and-destruction-of-saturns-rings/
+permalink: /posts/the-evolution-and-destruction-of-saturns-rings/
 tags:
   - Saturn
   - Rings

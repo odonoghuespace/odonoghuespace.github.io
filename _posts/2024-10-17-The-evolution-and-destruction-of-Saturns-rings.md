@@ -12,7 +12,7 @@ Originally written for University of Reading [Departmental Blog](https://blogs.r
 Saturn, owing to its system of rings, is the most recognisable planet in our Solar System. The planet is regularly used in clip-art images alongside a test tube or a DNA strand to represent even science itself. Visible images like that in Figure 1 capture our imaginations, with the rings appearing as a set of countless concentric circles without any obvious signs of disturbance. They seem, along with the planets and moons, to be an eternal piece of the Solar System’s furniture. On closer inspection by the instruments of science, however, we have seen that the rings never ceased to be falling apart ever since their formation. In our own work, we have found that the rings are currently emptying into the planet at a rate of up to 1 Olympic-sized swimming pool every 15 minutes. At that rate, they’d be gone in as little as 100 million years, and while that sounds like an absurdly large number relative to our human experiences, it’s just 2% of the age of the Solar System. 
 
 <p align="center">
-  <img src="/images/Blog1_Figure1.jpg" alt="" width="400">
+  <img src="/images/Blog1_Figure1.jpg" alt="" width="500">
   <figcaption>Figure 1: Saturn and its ring system. A portrait looking down on Saturn and its rings was created from images obtained by NASA's Cassini spacecraft on Oct. 10, 2013.</figcaption>
 </p>
 
@@ -32,7 +32,7 @@ Historically, scientists thought that the rings formed when a moon strayed too c
 Compelling arguments in favour of ancient rings come from statistics and time-evolution models of ring spreading. If the rings formed from cometary impacts in some way, we require a high frequency of comet impacts, so models point to the Late Heavy Bombardment (LHB) as the likely time Saturn’s rings were created, some 3.8 billion years ago. In Figure 3, starting from a particular initial mass, simulations track the mass loss of Saturn’s rings by spreading. The rings could have begun from an arbitrarily large mass and arrived near the present mass estimate of the rings in about 1 billion years; the bigger they were, the harder they fell. So, from a dynamical viewpoint, the rings could have formed billions of years ago, and statistically speaking that was probably during the LHB. 
 
 <p align="center">
-  <img src="/images/Blog1_Figure3.png" alt="" width="400">
+  <img src="/images/Blog1_Figure3.png" alt="" width="500">
   <figcaption>Figure 3: Time evolution of the rings from models of their viscous spreading. Each curve corresponds to a different initial mass. The black horizontal line shows the mass measured by Cassini and the pink shaded region shows the uncertainty. Adapted from Crida et al. (2019).</figcaption>
 </p>
 
@@ -42,7 +42,7 @@ Equally compelling counter-arguments advocate for a young ring age. The rings ar
 Finding the present-day erosion rate can be used to predict their future life time and give clues to the ring age at the same time. If the rings are being lost quickly today, it’s more likely that they haven’t been around for long. My team’s research tracks a phenomenon known as ‘ring rain’, which involves the flow of electrically charged icy grains from Saturn’s rings to the planet, which travel along the magnetic field lines (O’Donoghue et al., 2019). This enters at the locations shown in Figure 4. 
 
 <p align="center">
-  <img src="/images/Blog1_Figure4.png" alt="" width="400">
+  <img src="/images/Blog1_Figure4.png" alt="" width="500">
   <figcaption>Figure 4: An artist’s impression of Saturn’s ring rain. Electrically charged icy grains are able to escape Saturn’s rings and fall into the planet along magnetic field lines.</figcaption>
 </p>
 

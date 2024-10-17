@@ -1,5 +1,5 @@
 ---
-title: 'Blog Post number 1'
+title: 'Saturn's rings -- Last Chance To See'
 date: 2024-01-19
 permalink: /posts/the-evolution-and-destruction-of-saturns-rings/
 tags:
@@ -7,8 +7,6 @@ tags:
   - Rings
 ---
 
-
-Posted on 19 January, 2024 
 By: Dr. James O’Donoghue
 
 Saturn, thanks to its system of rings, is the most recognisable planet in our Solar System. The planet is regularly used in clip-art images alongside a test tube or a DNA strand to represent even science itself. Visible images like that in Figure 1 capture our imaginations, with the rings appearing as a set of countless concentric circles without any obvious signs of disturbance. They seem, along with the planets and moons, to be an eternal piece of the Solar System’s furniture. On closer inspection by the instruments of science, however, we have seen that the rings never ceased to be falling apart ever since their formation. In our own work, we have found that the rings are currently emptying into the planet at a rate of up to 1 Olympic-sized swimming pool every 15 minutes. At that rate, they’d be gone in as little as 100 million years, and while that sounds like an absurdly large number relative to our human experiences, it’s just 2% of the age of the Solar System. 

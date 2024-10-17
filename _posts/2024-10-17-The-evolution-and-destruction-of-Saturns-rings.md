@@ -7,10 +7,10 @@ tags:
   - Rings
 ---
 
-By: Dr. James O’Donoghued
-Originally penned for University of Reading Departmental Blog: https://blogs.reading.ac.uk/weather-and-climate-at-reading/2024/the-evolution-and-destruction-of-saturns-rings/
+Originally written for University of Reading Departmental Blog: https://blogs.reading.ac.uk/weather-and-climate-at-reading/2024/the-evolution-and-destruction-of-saturns-rings/
 
 Saturn, thanks to its system of rings, is the most recognisable planet in our Solar System. The planet is regularly used in clip-art images alongside a test tube or a DNA strand to represent even science itself. Visible images like that in Figure 1 capture our imaginations, with the rings appearing as a set of countless concentric circles without any obvious signs of disturbance. They seem, along with the planets and moons, to be an eternal piece of the Solar System’s furniture. On closer inspection by the instruments of science, however, we have seen that the rings never ceased to be falling apart ever since their formation. In our own work, we have found that the rings are currently emptying into the planet at a rate of up to 1 Olympic-sized swimming pool every 15 minutes. At that rate, they’d be gone in as little as 100 million years, and while that sounds like an absurdly large number relative to our human experiences, it’s just 2% of the age of the Solar System. 
+
 
 Figure 1: Saturn and its ring system. A portrait looking down on Saturn and its rings was created from images obtained by NASA's Cassini spacecraft on Oct. 10, 2013. Long Description
 
@@ -19,7 +19,7 @@ That is just the future of the rings, not the total lifetime; for that, you need
 
 The make-up and movements of the rings offers us some clues as to their origins and evolution. Saturn’s ring system is composed of billions of pieces of icy material in orbit about the planet ranging in size from a grain of sand to bus-sized chunks. Some example orbits are shown in Figure 2: Saturn’s gravitational pull is stronger closer to the planet, so material on the inside track necessarily has to move faster than that of the outside track, in order to prevent it falling in to the planet (more on that later). The rings are mainly made of water in the form of ice with just a trace of dust, itself composed of arrangements of carbon, nitrogen and hydrogen, according to studies of the light spectra leaving the rings (Hedman et al., 2013). If the rings were entirely water, they would appear white. 
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u3rpAHKVh84" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Figure 2: The orbits of Saturn’s ring particles. This graphic illustrates that the rings are much like a mini-Solar System, composed of an uncountable number of pieces of ice in orbit about the planet.  
 
 Historically, scientists thought that the rings formed when a moon strayed too close to Saturn. This beginning has been shelved in contemporary literature, as inward migration was only possible 4.5 billion years ago when circumplanetary gas was present to gas-drag moons toward the planet, and any nascent rings should also have been lost by the same mechanism. Nowadays, we think that the rings likely formed when a watery comet strayed too close to the planet, or a comet struck a moon. When an object strays too close to Saturn, the gravitational force on it is greater on the side facing the planet, so one side of it is pulled away from the other, undermining the object’s own ability to hold itself together. The distance at which disintegration occurs as a result of this imbalance of tidal forces is called the Roche Limit, and material is spread out both toward and away from Saturn, with the former surrendered to the planet, and the latter producing new, small moons just outside Saturn’s rings. The remaining debris is what we call a ring system. 

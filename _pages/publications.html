@@ -11,22 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
+
 <ol reversed>
   <li><strong>J. O'Donoghue</strong>, L. Moore, T. Stallard, B. Kurth, T. Bhakyapaibul, C. Tao, H. Melin, H. Kita, G. Murakami, A potential planetary-scale auroral heat transport event observed at Jupiter following a solar-wind compression, <i>Geophys. Res. Lett.</i>, submission Nov 2024.</li>
   <li>Melin, H., <strong>O'Donoghue, J.</strong>, Moore, L. et al. Ionospheric irregularities at Jupiter observed by JWST. <i>Nat. Astron.</i> 8, 1000–1007, doi.org/10.1038/s41550-024-02305-9, 2024.</li>

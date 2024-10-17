@@ -1,10 +1,10 @@
 ---
 layout: archive
 permalink: /cv/
-title: "Blog posts"
+title: "Curriculum Vitae"
 author_profile: true
 redirect_from:
-  - /wordpress/blog-posts/
+  - /wordpress/cv/
 ---
 
 # Curriculum Vitae

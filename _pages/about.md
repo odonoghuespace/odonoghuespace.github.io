@@ -10,7 +10,6 @@ redirect_from:
 I'm a planetary scientist specializing in ground-based astronomy of giant planet upper atmospheres, in particular Jupiter, Saturn and exoplanets. My research involves learning to understand how planets interact with their environments. The upper atmospheres are affected greatly by powerful auroras at the magnetic poles (much like the "northern lights" on Earth), or from storms like Jupiter's Great Red Spot and even by Saturn's rings which "rain" icy dust onto the planet. 
 In my spare time I make videos which explain the scales, motions and mechanisms of the solar system and beyond (available here), which have over 200 million views across all platforms, hundreds of news articles and are used in schools, universities, planetariums and museums worldwide. For this outreach work I was awarded the 2021 Europlanet Society Prize for Public Engagement.
 A data-driven personal website
-======
 
 
 Getting started

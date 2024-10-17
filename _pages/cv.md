@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /cv/
-title: "Curriculum Vitae"
+title: ""
 author_profile: true
 redirect_from:
   - /wordpress/cv/

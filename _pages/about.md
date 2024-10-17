@@ -18,4 +18,4 @@ In my spare time I make [videos]([https://youtube.com](https://www.youtube.com/@
 
 ## Recent news
 
-* May 2024: The mid-May G5 geomagnetic storm was a bit exciting, wasn't it? A few highlights:
+* October

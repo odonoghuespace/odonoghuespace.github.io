@@ -1,5 +1,5 @@
 ---
-title: 'Saturn's rings - Last Chance To See'
+title: 'Saturn's rings, Last Chance To See'
 date: 2024-01-19
 permalink: /posts/the-evolution-and-destruction-of-saturns-rings/
 tags:

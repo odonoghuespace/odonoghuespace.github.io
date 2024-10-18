@@ -16,6 +16,3 @@ I'm a planetary scientist in the [Department of Meteorology](https://research.re
 
 In my spare time I make [videos]([https://youtube.com](https://www.youtube.com/@Interplanetary)) which explain the scales, motions and mechanisms of the solar system and beyond.
 
-## Recent news
-
-* October

@@ -11,6 +11,9 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
+  - title: "News Updates"
+    url: /news/
+    
   - title: "Animations"
     url: https://www.youtube.com/@Interplanetary/videos
     

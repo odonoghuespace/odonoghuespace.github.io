@@ -7,13 +7,13 @@
 main:
   - title: "Publications"
     url: /publications/  
-        
-  - title: "Blog Posts"
-    url: /year-archive/
 
   - title: "News Updates"
     url: /news/
-    
+        
+  - title: "Blog Posts"
+    url: /year-archive/
+  
   - title: "Animations"
     url: https://www.youtube.com/@Interplanetary/videos
     

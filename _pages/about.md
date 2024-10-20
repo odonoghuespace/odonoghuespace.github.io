@@ -7,12 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-I'm a planetary scientist in the [Department of Meteorology](https://research.reading.ac.uk/meteorology/ "Department of Meteorology") and a member of the [Space and Atmospheric Electricity Group (SPATE)](https://research.reading.ac.uk/met-spate/). My research interests are:
+# Welcome!
 
-* Astronomy of Giant Planets
-* The aurorae of Jupiter and Saturn
-* The destruction of Saturn's rings
-* Solar wind affects at Jupiter and Saturn
+I am a planetary scientist and astronomer in the [Space and Atmospheric Electricity Group (SPATE)](https://research.reading.ac.uk/met-spate/) group at the University of Reading. My research focuses on our Solar System’s giant planets and their interactions with their space environments. I have returned to the UK following 10 years abroad, working for NASA, the Japanese space agency (JAXA) and Boston University.
 
-In my spare time I make [videos]([https://youtube.com](https://www.youtube.com/@Interplanetary)) which explain the scales, motions and mechanisms of the solar system and beyond.
+### Research Interests:
+- **Astronomy of Giant Planets**: Using the world's largest telescopes to observe Jupiter and Saturn.
+- **Aurorae of Jupiter and Saturn**: Investigating the processes that drive the stunning auroras on these Gas Giants.
+- **Destruction of Saturn's Rings**: Exploring the mechanisms behind the disappearance of Saturn's iconic rings.
+- **Solar Wind Effects**: Understanding how solar wind impacts Jupiter and Saturn.
+
+### Science Communication:
+In addition to my academic work, I’m passionate about making complex astronomical concepts accessible to everyone. In my spare time, I create [educational videos](https://www.youtube.com/@Interplanetary) that explain the vast scales, motions, and mechanisms that shape our solar system and beyond. 
+
+Here’s an example of one of my animations:
+[![Example Animation](https://img.youtube.com/vi/T1MrJvcllpY/1.jpg)](https://www.youtube.com/watch?v=T1MrJvcllpY)
+
+
 

@@ -21,7 +21,5 @@ I am a planetary scientist and astronomer in the [Space and Atmospheric Electric
 In addition to my academic work, I’m passionate about making complex astronomical concepts accessible to everyone. In my spare time, I create [educational videos](https://www.youtube.com/@Interplanetary) that explain the vast scales, motions, and mechanisms that shape our solar system and beyond. 
 
 Here’s an example of one of my animations:
-[![Example Animation](https://img.youtube.com/vi/T1MrJvcllpY/1.jpg)](https://www.youtube.com/watch?v=T1MrJvcllpY)
 
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T1MrJvcllpY" title="Example Animation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

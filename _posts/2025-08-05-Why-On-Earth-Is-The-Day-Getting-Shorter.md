@@ -7,6 +7,7 @@ tags:
   - Rotation
   - Astronomy
   - Timekeeping
+header_image: https://images.theconversation.com/files/683944/original/file-20250805-62-f7jkor.jpg
 ---
 
 Originally written for [The Conversation](https://theconversation.com/why-on-earth-is-the-planets-day-getting-shorter-260946)

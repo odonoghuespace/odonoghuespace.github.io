@@ -12,7 +12,7 @@ tags:
 Originally written for [The Conversation](https://theconversation.com/why-on-earth-is-the-planets-day-getting-shorter-260946)
 
 <p align="center">
-  <img src="https://images.theconversation.com/files/683944/original/file-20250805-62-f7jkor.jpg?ixlib=rb-4.1.0&rect=0%2C285%2C5472%2C3078&q=45&auto=format&w=754&fit=clip" width="500" />
+  <img src="/images/blog/earth-day-shorter.jpg" width="500" />
   <figcaption>Image: <a href="https://www.shutterstock.com/image-photo/time-space-move-world-galaxy-universe-2176055143">Quality Stock Arts/Shutterstock</a></figcaption>
 </p>
 
@@ -28,7 +28,7 @@ However, the kind of day most people go by is 24 hours long and that is called a
 
 Both kinds of day are slightly shorter on August 5 2025, largely due to what is happening with winds in Earth’s atmosphere, fluid circulation in the ocean and magma – and even the Moon’s gravitational pull.
 
-Deviations from 24 hours have been accurately measured since the 1970s using atomic clocks and astronomy. Over the course of a year, these changes build up: in 1973, for example, the sum of deviations added up to +1,106 milliseconds, meaning that the Earth lagged behind in its rotation by just over a second. Leap seconds were introduced in the same year to correct for this, with one second added to the clock at the end of the day – 23:59:60.
+Deviations from 24 hours have been accurately measured since the 1970s using atomic clocks and astronomy. Over the course of a year, these changes build up: in 1973, for example, the sum of deviations added up to +1,106 milliseconds, meaning that the Earth lagged behind in its rotation by just over a second. [Leap seconds](https://en.wikipedia.org/wiki/Leap_second) were introduced in the same year to correct for this, with one second added to the clock at the end of the day – 23:59:60.
 
 Absurd levels of accuracy are needed in time-keeping. Global positioning systems (more commonly called GPS) can pinpoint where you are in space, that’s no problem. But if the planetary surface you are on has physically spun slightly faster or slower than expected that day, an uncorrected GPS won’t know that, and your position won’t match with your map.
 
@@ -38,7 +38,7 @@ A 1.33 millisecond deviation translates to a position error of about 62 cm at th
 
 To find out how fast the Earth is spinning at all, you need to find a reference frame in which, ideally, nothing is moving. Everything in space moves relative to everything else, but the farther we look, the more still things seem; just as distant hills appear to move slower while you’re on a train, and nearby farms rush by.
 
-Luckily, there are objects so magnificently bright that they outshine entire galaxies. These are quasars, and they are visible across the universe from billions of light years away.
+Luckily, there are objects so magnificently bright that they outshine entire galaxies. These are [quasars](https://en.wikipedia.org/wiki/Quasar), and they are visible across the universe from billions of light years away.
 
 Quasars are supermassive blackholes up to billions of times the mass of our Sun, which emit between 100 and 10,000 times more light than our entire galaxy, the Milky Way. Quasars are detectable from billions of light years across the universe, where things are essentially stationary, so they act as cosmic beacons.
 
@@ -55,7 +55,7 @@ These daily and seasonal changes are just short‑lived blips atop broader slowd
 Earth is oblate, meaning the surface at the equator is 21.5 km farther from the centre of the planet than the surface at the poles. As climate change melts the polar ice caps, meltwater moves from the poles to the equator via the ocean. Rising sea levels mean water is farther from the surface, and just like the ballerina moving their arms back out, it aids Earth’s slowdown. Redistribution of Earth’s mass changes our rotation in similar ways, including by [earthquakes](https://www.jpl.nasa.gov/news/japan-quake-may-have-shortened-earth-days-moved-axis/).
 
 <p align="center">
-  <img src="https://images.theconversation.com/files/682291/original/file-20250725-56-v95lli.png?ixlib=rb-4.1.0&q=45&auto=format&w=754&fit=clip" width="500" />
+  <img src="https://images.theconversation.com/files/682291/original/file-20250725-56-v95lli.png?ixlib=rb-4.1.0&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip" width="500" />
   <figcaption>Historical deviation of day length from the 24-hour day (86,400 seconds). Source: <a href="https://en.wikipedia.org/wiki/Day_length_fluctuations#/media/File:Deviation_of_day_length_from_SI_day.svg">IERS/Wikipedia</a></figcaption>
 </p>
 
@@ -71,4 +71,4 @@ You won’t notice the sunrise arrive 1.33 milliseconds sooner, but to precision
 
 <span><a href="https://theconversation.com/profiles/james-odonoghue-2226236">James O'Donoghue</a>, Research Associate Professor in Planetary Astronomy, Meteorology, <em><a href="https://theconversation.com/institutions/university-of-reading-902">University of Reading</a></em></span>
 
-This article is republished from <a href="https://theconversation.com">The Conversation</a> under a Creative Commons license. Read the <a href="https://theconversation.com/why-on-earth-is-the-planets-day-getting-shorter-260946">original article</a>.
+This article is republished from <a href="https://theconversation.com">The Conversation</a> under a Creative Commons license. Read the [original article](https://theconversation.com/why-on-earth-is-the-planets-day-getting-shorter-260946).

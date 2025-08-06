@@ -9,7 +9,7 @@ tags:
   - Timekeeping
 ---
 
-Originally published in [The Conversation](https://theconversation.com/why-on-earth-is-the-planets-day-getting-shorter-260946), by [James O'Donoghue](https://theconversation.com/profiles/james-odonoghue-2226236), University of Reading.
+Originally written for [The Conversation](https://theconversation.com/why-on-earth-is-the-planets-day-getting-shorter-260946)
 
 Earth will complete a rotation 1.33 milliseconds earlier than usual on Tuesday, August 5. That makes it one of the shortest days of 2025 at 86,399.99867 seconds long. How that happens, and how we can even measure it with such precision, might make your head spin faster too.
 

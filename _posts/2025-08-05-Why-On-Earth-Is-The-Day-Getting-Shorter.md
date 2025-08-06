@@ -12,7 +12,7 @@ tags:
 Originally written for [The Conversation](https://theconversation.com/why-on-earth-is-the-planets-day-getting-shorter-260946)
 
 <p align="center">
-  <img src="/images/blog/earth-day-shorter.jpg" width="500" />
+        <img src="https://images.theconversation.com/files/683944/original/file-20250805-62-f7jkor.jpg?ixlib=rb-4.1.0&rect=0%2C285%2C5472%2C3078&q=45&auto=format&w=754&fit=clip" />
   <figcaption>Image: <a href="https://www.shutterstock.com/image-photo/time-space-move-world-galaxy-universe-2176055143">Quality Stock Arts/Shutterstock</a></figcaption>
 </p>
 

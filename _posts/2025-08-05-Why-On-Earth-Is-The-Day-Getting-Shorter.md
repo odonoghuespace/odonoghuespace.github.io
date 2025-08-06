@@ -11,92 +11,64 @@ tags:
 
 Originally written for [The Conversation](https://theconversation.com/why-on-earth-is-the-planets-day-getting-shorter-260946)
 
-Earth will complete a rotation 1.33 milliseconds earlier than usual on Tuesday, August 5. That makes it one of the shortest days of 2025 at 86,399.99867 seconds long. How that happens, and how we can even measure it with such precision, might make your head spin faster too.
-
-On average, Earth physically rotates in 23 hours, 56 minutes, 4 seconds and 90.5 milliseconds – this is called a **sidereal day**, Earth’s “true” rotation relative to distant deep-space objects like stars.
-
-However, the kind of day we use in daily life is 24 hours long – a **solar day** – the time between two sunrises or consecutive noons. The 4-minute difference comes from Earth needing to rotate slightly more than 360° for the Sun to appear in the same place again.
-
 <p align="center">
-  <img src="https://images.theconversation.com/files/683944/original/file-20250805-62-f7jkor.jpg?ixlib=rb-4.1.0&rect=0%2C285%2C5472%2C3078&q=45&auto=format&w=754&fit=clip" width="500" alt="Time and space concept" />
+  <img src="https://images.theconversation.com/files/683944/original/file-20250805-62-f7jkor.jpg?ixlib=rb-4.1.0&rect=0%2C285%2C5472%2C3078&q=45&auto=format&w=754&fit=clip" width="500" />
   <figcaption>Image: <a href="https://www.shutterstock.com/image-photo/time-space-move-world-galaxy-universe-2176055143">Quality Stock Arts/Shutterstock</a></figcaption>
 </p>
 
+Earth will complete a rotation 1.33 milliseconds earlier than usual on Tuesday, August 5. That makes it one of the shortest days of 2025 at 86,399.99867 seconds long. How that happens, and how we can even measure it with such precision, might make your head spin faster too.
+
+On average, Earth physically rotates in 23 hours, 56 minutes, 4 seconds and 90.5 milliseconds – this is called a sidereal day. It is Earth’s “true” rotation relative to distant objects in deep space, like stars.
+
+However, the kind of day most people go by is 24 hours long and that is called a solar day – it’s the time between two sunrises, or consecutive noons. The extra 4 minutes comes from the fact that Earth has to rotate 1 more degree, to 361 degrees, for the Sun to appear in the same place again.
+
 <figure>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WWw4JY2dNXM?wmode=transparent&amp;start=0" frameborder="0" allowfullscreen></iframe>
-<figcaption>Why the Earth doesn't spin evenly – explained with visuals.</figcaption>
+<iframe width="440" height="260" src="https://www.youtube.com/embed/WWw4JY2dNXM?wmode=transparent&amp;start=0" frameborder="0" allowfullscreen=""></iframe>
 </figure>
 
-Both kinds of day are slightly shorter on August 5, 2025. This is largely due to influences such as:
+Both kinds of day are slightly shorter on August 5 2025, largely due to what is happening with winds in Earth’s atmosphere, fluid circulation in the ocean and magma – and even the Moon’s gravitational pull.
 
-- Winds in the atmosphere
-- Ocean circulation
-- Magma movement
-- The Moon's tidal effects
+Deviations from 24 hours have been accurately measured since the 1970s using atomic clocks and astronomy. Over the course of a year, these changes build up: in 1973, for example, the sum of deviations added up to +1,106 milliseconds, meaning that the Earth lagged behind in its rotation by just over a second. Leap seconds were introduced in the same year to correct for this, with one second added to the clock at the end of the day – 23:59:60.
 
-Thanks to **atomic clocks** and astronomical tracking, deviations from 24 hours have been measured since the 1970s. For instance, in 1973, Earth lagged by +1.106 seconds, requiring the addition of **leap seconds** – a whole extra second at 23:59:60 – to keep clocks in sync with Earth's rotation.
+Absurd levels of accuracy are needed in time-keeping. Global positioning systems (more commonly called GPS) can pinpoint where you are in space, that’s no problem. But if the planetary surface you are on has physically spun slightly faster or slower than expected that day, an uncorrected GPS won’t know that, and your position won’t match with your map.
 
-GPS systems require extreme timing precision. A 1.33 ms error could throw off GPS by 62 cm at the equator. If left uncorrected over a year, 1973’s cumulative drift could have introduced GPS errors of around **half a kilometre**.
-
----
+A 1.33 millisecond deviation translates to a position error of about 62 cm at the equator, so 1973’s cumulative drift would have caused GPS errors of around half a kilometre if left uncorrected over the year.
 
 ## Why doesn’t the Earth stay still?
 
-To measure Earth’s rotation, we compare its spin to fixed points in deep space. The most effective reference points? **Quasars**.
+To find out how fast the Earth is spinning at all, you need to find a reference frame in which, ideally, nothing is moving. Everything in space moves relative to everything else, but the farther we look, the more still things seem; just as distant hills appear to move slower while you’re on a train, and nearby farms rush by.
 
-Quasars are ultra-luminous black holes, visible billions of light years away, and appear stationary due to their immense distance. By tracking Earth’s motion relative to them using **radio telescopes**, scientists can measure rotation to **sub-millisecond precision**.
+Luckily, there are objects so magnificently bright that they outshine entire galaxies. These are quasars, and they are visible across the universe from billions of light years away.
 
-These measurements feed into [Earth orientation models](https://www.iers.org/IERS/EN/DataProducts/EarthOrientationData/eop.html) that account for:
+Quasars are supermassive blackholes up to billions of times the mass of our Sun, which emit between 100 and 10,000 times more light than our entire galaxy, the Milky Way. Quasars are detectable from billions of light years across the universe, where things are essentially stationary, so they act as cosmic beacons.
 
-- Atmosphere
-- Oceans
-- Celestial motions
-- Internal core dynamics
+Radio telescopes measure our position relative to these, yielding values of Earth’s true rotation period to sub-millisecond accuracy.
 
-This modeling allows scientists to forecast day-length changes well in advance – critical for correcting navigation systems.
+Those ultra‑precise observations are also the starting point for [computer models](https://www.iers.org/IERS/EN/DataProducts/EarthOrientationData/eop.html) which include movements of the atmosphere, oceans, celestial motions and more to predict the length of day. This is how we know, in advance, when a day is shorter, and how to correct GPS as a result.
 
----
+Winds in Earth’s atmosphere are the biggest influence on the length of each day as a result of their collisions with the land surface, particularly when they hit mountain ranges. Incredible as it may sound, wind actually slows the spin of the Earth this way.
 
-### Seasonal influences on Earth's spin
+Earth’s prevailing winds are fastest in the northern hemisphere winter, but slowest from June to August, so the summer months always bring the shortest days of the year (even though we tend to say these are the “longest” days in the northern hemisphere, because of their greater daylight duration).
 
-Winds are the biggest daily influence. When winds strike mountains, they transfer energy and actually **slow Earth’s spin**. In the northern hemisphere, wind speeds are slowest during **June to August**, which leads to the **shortest days** (even though they have the most daylight).
+These daily and seasonal changes are just short‑lived blips atop broader slowdowns. Over decades, the melting of the polar ice caps has been slowing the Earth’s rotation. To understand why, consider a spinning ballerina retracting their outstretched arms – they begin to spin much faster. A spinning ball, like Earth, is no different.
 
-Other seasonal and longer-term effects include:
-
-- **Melting polar ice** redistributing water toward the equator, increasing Earth’s moment of inertia and **slowing the rotation**.
-- **Earthquakes** shifting mass and altering spin rate.
-- The **Moon** constantly dragging Earth's oceans backward, steadily sapping angular momentum and increasing day length over geologic time.
-
----
+Earth is oblate, meaning the surface at the equator is 21.5 km farther from the centre of the planet than the surface at the poles. As climate change melts the polar ice caps, meltwater moves from the poles to the equator via the ocean. Rising sea levels mean water is farther from the surface, and just like the ballerina moving their arms back out, it aids Earth’s slowdown. Redistribution of Earth’s mass changes our rotation in similar ways, including by [earthquakes](https://www.jpl.nasa.gov/news/japan-quake-may-have-shortened-earth-days-moved-axis/).
 
 <p align="center">
   <img src="https://images.theconversation.com/files/682291/original/file-20250725-56-v95lli.png?ixlib=rb-4.1.0&q=45&auto=format&w=754&fit=clip" width="500" />
   <figcaption>Historical deviation of day length from the 24-hour day (86,400 seconds). Source: <a href="https://en.wikipedia.org/wiki/Day_length_fluctuations#/media/File:Deviation_of_day_length_from_SI_day.svg">IERS/Wikipedia</a></figcaption>
 </p>
 
----
+The Moon, while beautiful, can be a huge drag over billions of years. Earth’s oceans are raised by the Moon’s gravity, but as the Earth rotates, the raised oceans are carried slightly ahead of the Moon in its orbit. But the Moon continues pulling on those oceans, dragging them backwards against the Earth’s anticlockwise rotation, which slows us down.
 
-## The Moon is slowing Earth down
+Earth’s rotational energy isn’t lost, it’s transferred to the Moon, which gains orbital speed and causes it to escape Earth’s gravity a little better – this is why [it’s moving away from us at 3.8 cm a year](https://eclipse.gsfc.nasa.gov/SEhelp/ApolloLaser.html). Our length of day has increased from 17 hours 2.5 billion years ago largely due to the Moon [sapping Earth’s angular momentum](https://www.universetoday.com/articles/2-46-billion-years-ago-a-day-on-earth-was-only-17-hours-and-the-moon-was-much-closer#:%7E:text=Closer%20%2D%20Universe%20Today-,2.46%20Billion%20Years%20ago%2C%20a%20day%20on%20Earth%20was%20Only,the%20Moon%20was%20Much%20Closer&amp;text=As%20the%20ages%20pass%20the,our%20day%20gradually%20gets%20longer.) over the eons.
 
-Tidal forces from the Moon create ocean bulges that Earth drags ahead as it rotates. The Moon then pulls back on those bulges, creating a drag force.
+Earth’s rotation has slowed every year from 1973 to 2020 (where precise measurements exist), with each year accumulating [hundreds of milliseconds of lag](https://www.timeanddate.com/time/earth-rotation.html), which has already been accounted for by adding 27 leap seconds. Things changed from 2020 – the Earth started spinning faster instead of slower every year, probably the result of angular momentum [exchange between the Earth’s core and mantle](https://www.nature.com/articles/d41586-024-00850-x), but modulated by the numerous other motions we’ve explored.
 
-This slows Earth’s spin but transfers angular momentum to the Moon, which is now **moving away at 3.8 cm per year**.
+July 5, July 22 and August 5 were singled out as some of this year’s fastest days far in advance, because on top of the Earth’s internal motions and seasonal quirks in atmospheric winds, the Moon’s position in orbit also slows the Earth twice per orbit (every two weeks). This is because when the Moon is directly above the equator, all of its tidal drag acts east to west, but on these dates, it is positioned farthest north and south, weakening that effect.
 
-Over billions of years, this has lengthened our day – from about **17 hours** 2.5 billion years ago to today’s 24-hour standard.
+You won’t notice the sunrise arrive 1.33 milliseconds sooner, but to precision atomic clocks, quasar‐referenced astronomical measurements, it will be obvious.
 
----
+<span><a href="https://theconversation.com/profiles/james-odonoghue-2226236">James O'Donoghue</a>, Research Associate Professor in Planetary Astronomy, Meteorology, <em><a href="https://theconversation.com/institutions/university-of-reading-902">University of Reading</a></em></span>
 
-## A twist in recent years
-
-From 1973 to 2020, Earth’s rotation **slowed every year**. But since 2020, it's been **speeding up**, probably due to **angular momentum exchange between Earth’s core and mantle**.
-
-Still, the effect of the Moon, wind, seasons, and internal planetary motion continue to create minor, measurable variations. For example, **July 5, July 22, and August 5** of 2025 were predicted to be the shortest days due to optimal alignment of these effects.
-
-You won’t notice the sunrise arriving 1.33 milliseconds earlier – but the atomic clocks and quasars certainly will.
-
----
-
-**Author**: [James O'Donoghue](https://theconversation.com/profiles/james-odonoghue-2226236), Research Associate Professor in Planetary Astronomy, Meteorology, [University of Reading](https://theconversation.com/institutions/university-of-reading-902)
-
-**Originally published on [The Conversation](https://theconversation.com/why-on-earth-is-the-planets-day-getting-shorter-260946) under a Creative Commons license.**
-
+This article is republished from <a href="https://theconversation.com">The Conversation</a> under a Creative Commons license. Read the <a href="https://theconversation.com/why-on-earth-is-the-planets-day-getting-shorter-260946">original article</a>.

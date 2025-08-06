@@ -11,13 +11,6 @@
 {% else %}
   {% assign title = post.title %}
 {% endif %}
-{% if post.header_image %}
-  <div class="archive-post-thumbnail">
-    <a href="{{ post.url | relative_url }}">
-      <img src="{{ post.header_image }}" alt="{{ post.title }}">
-    </a>
-  </div>
-{% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">

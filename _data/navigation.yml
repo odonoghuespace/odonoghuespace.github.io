@@ -9,7 +9,7 @@ main:
     url: /news/
         
   - title: "Blogs"
-    url: /year-archive/
+    url: /blog-posts/
 
   - title: "Appearances"
     url: /appearances/

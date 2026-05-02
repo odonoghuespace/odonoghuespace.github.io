@@ -9,7 +9,7 @@ redirect_from:
 
 # Welcome!
 
-I am a planetary scientist and astronomer in the [Space and Atmospheric Electricity Group (SPATE)](https://research.reading.ac.uk/met-spate/) group at the University of Reading. My research focuses on our Solar System’s giant planets and their interactions with their space environments. I have returned to the UK following 10 years living internationally, working for NASA, the Japanese space agency (JAXA) and Boston University.
+I am a planetary scientist and astronomer in the [Space and Atmospheric Electricity Group (SPATE)](https://research.reading.ac.uk/met-spate/) group at the University of Reading. My research focuses on our Solar System’s giant planets and their interactions with their space environments. I have returned to the UK following 10 years living in the US and Japan, working for NASA, the Japanese space agency (JAXA) and Boston University.
 
 ### Research Interests
 - **Astronomy of Giant Planets**: Using the world's largest telescopes to observe Jupiter and Saturn.

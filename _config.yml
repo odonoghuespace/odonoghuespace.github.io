@@ -21,10 +21,10 @@ repository               : "odonoghuespace/odonoghuespace.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "JamesODonoghueFormal.jpg"
+  avatar           : "MaldivesPublicTalk.png"
   name             : "James O'Donoghue"
   pronouns         : # example: "she/her"  
-  bio              : "Research Associate Professor"
+  bio              : "Associate Professor"
   location         : #
   employer         : "University of Reading"
   uri              : # URL
